@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/category_background"
+    android:layout_width="match_parent"
+    android:layout_height="88dp"
+    android:background="@color/colorAccent"
+    android:orientation="horizontal">
+
+    <!-- play and pause image-->
+    <ImageView
+        android:id="@+id/play_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:rotation="180"
+        tools:src="@drawable/ic_play_circle"/>
+
+
+    <!-- word image -->
+    <ImageView
+        android:id="@+id/image_word"
+        android:layout_width="88dp"
+        android:layout_height="88dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/background_dark"
+        android:backgroundTint="#FFF7DA"
+        tools:src="@drawable/family_father"/>
+
+    <!-- containr of arabic && english word-->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/image_word"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/english_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="bottom"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            tools:text="father"/>
+
+        <TextView
+            android:id="@+id/arabic_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="8dp"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="@android:color/white"
+            tools:text="اﻻب"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

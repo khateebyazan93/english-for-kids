@@ -1,0 +1,234 @@
+<resources>
+    <string name="app_name">english for kids</string>
+
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">الجمل</string>
+
+    <!-- Category name for the  words of colors [CHAR LIMIT=20] -->
+    <string name="category_colors">اﻻلوان</string>
+
+    <!-- Category name for the  words of numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">اﻻرقام</string>
+
+    <!-- Category name for the  words of family members [CHAR LIMIT=20] -->
+    <string name="category_family">العائلة</string>
+
+
+    <!--  word for the number one in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_one">واحد</string>
+
+    <!--  word for the number two in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_two">اثنين</string>
+
+    <!--  word for the number three in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_a_number_three">ثﻻثة</string>
+
+    <!--  word for the number four  in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_four">اربعة</string>
+
+    <!--  word for the number five in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_five">خمسة</string>
+
+    <!--  word for the number six in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_six">ستة</string>
+
+    <!--  word for the number seven in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_seven">سبعة</string>
+
+    <!--  word for the number eight in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_eight">ثمانية</string>
+
+    <!--  word for the number nine in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_nine">تسعة</string>
+
+    <!--  word for the number ten in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_number_ten">عشرة</string>
+
+
+    <!--  word for the number one in english [CHAR LIMIT=20] -->
+    <string name="english_number_one">one</string>
+
+    <!--  word for the number two  in english [CHAR LIMIT=20] -->
+    <string name="english_number_two">two</string>
+
+    <!--  word for the number three  in english [CHAR LIMIT=20] -->
+    <string name="english_number_three">three</string>
+
+    <!--  word for the number four  in english [CHAR LIMIT=20] -->
+    <string name="english_number_four">four</string>
+
+    <!--  word for the number five  in english [CHAR LIMIT=20] -->
+    <string name="english_number_five">five</string>
+
+    <!--  word for the number six  in english [CHAR LIMIT=20] -->
+    <string name="english_number_six">six</string>
+
+    <!--  word for the number seven  in english [CHAR LIMIT=20] -->
+    <string name="english_number_seven">seven</string>
+
+    <!--  word for the number eight  in english [CHAR LIMIT=20] -->
+    <string name="english_number_eight">eight</string>
+
+    <!--  word for the number nine  in english [CHAR LIMIT=20] -->
+    <string name="english_number_nine">nine</string>
+
+    <!--  word for the number ten  in english [CHAR LIMIT=20] -->
+    <string name="english_number_ten">ten</string>
+
+
+    <!--  word for family member father  in english [CHAR LIMIT=20] -->
+    <string name="english_father">father</string>
+
+    <!--  word for family member mother  in english [CHAR LIMIT=20] -->
+    <string name="english_mother">mother</string>
+
+    <!--  word for family member son  in english [CHAR LIMIT=20] -->
+    <string name="english_son">son</string>
+
+    <!--  word for family member older brother  in english [CHAR LIMIT=20] -->
+    <string name="english_older_brother">older brother</string>
+
+    <!--  word for family member younger brother in english [CHAR LIMIT=20] -->
+    <string name="english_younger_brother">younger brother</string>
+
+    <!--  word for family member older sister in english [CHAR LIMIT=20] -->
+    <string name="english_older_sister">older sister</string>
+
+    <!--  word for family member younger sister in english [CHAR LIMIT=20] -->
+    <string name="english_younger_sister">younger sister</string>
+
+    <!--  word for family member grandmother in english [CHAR LIMIT=20] -->
+    <string name="english_grandmother">grandmother</string>
+
+    <!--  word for family member grandfather in english [CHAR LIMIT=20] -->
+    <string name="english_grandfather">grandfather</string>
+
+
+
+    <!--  word for family member father in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_father">اﻻب</string>
+
+    <!--  word for family member mother in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_mother">اﻻم</string>
+
+    <!--  word for family member older brother in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_older_brother">اﻻخ اﻻكبر</string>
+
+    <!--  word for family member younger brother in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_younger_brother">اﻻخ اﻻصغر</string>
+
+    <!--  word for family member older sister in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_older_sister">اﻻخت الكبرى</string>
+
+    <!--  word for family member younger sister in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_younger_sister">اﻻخت الصغرى</string>
+
+    <!--  word for family member grandfather in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_grandfather">الجد</string>
+
+    <!--  word for family member grandmother in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_grandmother">الجدة</string>
+
+    <!--  word for family member son in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_son">اﻻبن</string>
+
+    <!--_________________________-->
+
+
+    <!--  word for the color red in english [CHAR LIMIT=20] -->
+    <string name="english_red">red</string>
+
+    <!--  word for the color yellow in english [CHAR LIMIT=20] -->
+    <string name="english_yellow">yellow</string>
+
+    <!--  word for the color green in english [CHAR LIMIT=20] -->
+    <string name="english_green">green</string>
+
+    <!--  word for the color brown in english [CHAR LIMIT=20] -->
+    <string name="english_brown">brown</string>
+
+    <!--  word for the color gray in english [CHAR LIMIT=20] -->
+    <string name="english_gray">gray</string>
+
+    <!--  word for the color black in english [CHAR LIMIT=20] -->
+    <string name="english_black">black</string>
+
+    <!--  word for the color white in english [CHAR LIMIT=20] -->
+    <string name="english_white">white</string>
+
+    <!--  word for the color red in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_red">احمر</string>
+
+    <!--  word for the color yellow in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_yellow">اصفر</string>
+
+    <!--  word for the color green in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_green">اخضر</string>
+
+    <!--  word for the color brown in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_brown">بني</string>
+
+    <!--  word for the color gray in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_gray">رمادي</string>
+
+    <!--  word for the color black in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_black">اسود</string>
+
+    <!--  word for the color white in arabic [CHAR LIMIT=20] -->
+    <string name="arabic_white">ابيض</string>
+
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_what_is_your_name">what is your name ?</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_how_old_are_you"> how old are you ?</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_my_name_is">my name is...</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_let_is_go">let\'s go !</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_are_you_hungry">are you hungry ?</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_im_coming">im coming</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_how_are_you_feeling">how are you feeling ?</string>
+
+    <!--phrase in english [CHAR LIMIT=100] -->
+    <string name="english_im_feeling_good">im feeling good</string>
+
+
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_what_is_your_name">ماهو اسمك ؟</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_how_old_are_you">كم عمرك ؟</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_my_name_is">اسمي هوه..</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_let_is_go">هيا بنا</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_are_you_hungry">هل انت جائع ؟</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_im_coming">انا قادم</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_how_are_you_feeling">كيف تشعر ؟</string>
+
+    <!--phrase in arabic [CHAR LIMIT=100] -->
+    <string name="arabic_im_feeling_good">انا اشعر اني جيد</string>
+
+
+
+</resources>
