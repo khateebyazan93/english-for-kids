@@ -4,7 +4,6 @@ package com.example.yazan.englishforkids.activities;
 import android.app.Fragment;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 
 import com.dision.android.rtlviewpager.RTLPagerAdapter;
@@ -35,9 +34,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        // get ActionBar object
-        getSupportActionBar().setDisplayOptions(ActionBar.DISPLAY_SHOW_CUSTOM);
-        getSupportActionBar().setCustomView(R.layout.app_bar);
+
 
 
         // attach/find language view pager that will allow the user to swipe between fragments

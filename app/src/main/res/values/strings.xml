@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">english for kids</string>
+    <string name="app_name">English for kids</string>
 
 
     <!-- Category name for phrases [CHAR LIMIT=20] -->
-    <string name="category_phrases">الجمل</string>
+    <string name="category_phrases">العبارات</string>
 
     <!-- Category name for the  words of colors [CHAR LIMIT=20] -->
     <string name="category_colors">اﻻلوان</string>
@@ -133,7 +133,6 @@
     <!--  word for family member son in arabic [CHAR LIMIT=20] -->
     <string name="arabic_son">اﻻبن</string>
 
-    <!--_________________________-->
 
 
     <!--  word for the color red in english [CHAR LIMIT=20] -->
